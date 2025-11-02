@@ -1,7 +1,10 @@
+using System.Reflection;
 using AuctionService.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+var auctionAssembly = Assembly.GetExecutingAssembly();
 
 // Add services to the container.
 
@@ -9,6 +12,11 @@ builder.Services.AddDbContext<AuctionDbContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddAutoMapper(config =>
+{
+    config.LicenseKey = "";
+}, auctionAssembly);
 
 builder.Services.AddControllers();
 
