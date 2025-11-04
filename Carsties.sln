@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService", "src\Aucti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchService", "src\SearchService\SearchService.csproj", "{CDE42E70-CB1C-4CE0-8083-05A028BBF9A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "src\Contracts\Contracts.csproj", "{586F37CA-C83A-475C-8709-419200275DDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{CDE42E70-CB1C-4CE0-8083-05A028BBF9A7}.Release|x64.Build.0 = Release|Any CPU
 		{CDE42E70-CB1C-4CE0-8083-05A028BBF9A7}.Release|x86.ActiveCfg = Release|Any CPU
 		{CDE42E70-CB1C-4CE0-8083-05A028BBF9A7}.Release|x86.Build.0 = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|x64.Build.0 = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Debug|x86.Build.0 = Debug|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|x64.ActiveCfg = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|x64.Build.0 = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{586F37CA-C83A-475C-8709-419200275DDB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +64,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BD2EE81A-D4E0-4203-82CC-C9D33F05A562} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{CDE42E70-CB1C-4CE0-8083-05A028BBF9A7} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{586F37CA-C83A-475C-8709-419200275DDB} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal

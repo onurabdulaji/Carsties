@@ -111,3 +111,10 @@ C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionSe
 C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.csproj.AssemblyReference.cache
 C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionS.72D7E915.Up2Date
 C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.sourcelink.json
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.dll
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.dll
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\Contracts.pdb
+C:\Users\OnurAbdulaji\OneDrive - Tessa Group\Desktop\Demo\Carsties\src\AuctionService\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll
