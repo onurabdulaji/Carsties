@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
+    "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
+    "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\OnurAbdulaji\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\obj\\",
+        "outputPath": "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

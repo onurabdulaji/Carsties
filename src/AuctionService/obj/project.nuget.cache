@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yE7f26BXf8s=",
+  "dgSpecHash": "6G+vO+zTIv4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+  "projectFilePath": "C:\\Users\\OnurAbdulaji\\OneDrive - Tessa Group\\Desktop\\Demo\\Carsties\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\OnurAbdulaji\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\OnurAbdulaji\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
