@@ -24,21 +24,19 @@ builder.Services.AddAutoMapper(config =>
 
 builder.Services.AddMassTransit(q =>
 {
-
     q.AddConsumersFromNamespaceContaining<AuctionCreatedConsumer>();
-
     q.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search", false));
 
     q.UsingRabbitMq((context, cfg) =>
     {
-        cfg.ConfigureEndpoints(context);
-
         cfg.ReceiveEndpoint("search-auction-created", e =>
         {
             e.UseMessageRetry(q => q.Interval(5, 5));
 
             e.ConfigureConsumer<AuctionCreatedConsumer>(context);
         });
+
+        cfg.ConfigureEndpoints(context);
     });
 });
 
